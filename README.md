@@ -1,6 +1,6 @@
 ## Spam Detection
 
-The dataset includes tagged SMS messages. It contains 5,574 English SMS messages in total; tagged as ham or spam. Check the SMSSpamCollection dataset for details.
+The objective of this project is to detect spam messages. The dataset includes tagged SMS messages. It contains 5,574 English SMS messages in total; tagged as ham or spam. Check the SMSSpamCollection dataset for details.
 
 • MLlib with PySpark is used to build the model. <br/>
 • Preprocessing steps are performed and feature engineering is applied using TF-IDF.<br/>
